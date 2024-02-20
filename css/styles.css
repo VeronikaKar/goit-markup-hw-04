@@ -445,7 +445,7 @@ img {
   margin-left: auto;
   padding: 100px 0;
 }
-.footer-container {
+.container-footer {
   display: flex;
   margin: 0 auto;
   max-width: 1440px;
@@ -454,7 +454,7 @@ img {
   padding: 0 15px;
   align-items: baseline;
 }
-.container-footer-logo-text {
+.container-logo-text {
   margin-right: 120px;
 }
 .promo-text-footer {
