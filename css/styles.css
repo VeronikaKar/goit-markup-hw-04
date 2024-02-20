@@ -185,6 +185,7 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  max-width: 1440px;
 }
 .headline {
   font-size: 56px;
